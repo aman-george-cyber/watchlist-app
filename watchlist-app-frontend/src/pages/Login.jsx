@@ -49,7 +49,7 @@ const Login = () => {
           <div className="brand-badge">
             <Film size={28} className="brand-icon" />
           </div>
-          <h1>CineWatch</h1>
+          <h1>SceneIt</h1>
           <p className="subtitle">Sign in to manage your Movie & TV Show Watchlist</p>
         </div>
 

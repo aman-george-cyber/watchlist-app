@@ -151,7 +151,7 @@ const Watchlist = () => {
           <div className="brand-logo-small">
             <Film size={22} />
           </div>
-          <h2>CineWatch</h2>
+          <h2>SceneIt</h2>
         </div>
 
         <div className="navbar-actions">
